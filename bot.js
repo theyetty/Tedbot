@@ -164,7 +164,7 @@ function calculateRank(messagesCount, userID) {
         return rankInfo.rank;
       }
     }
-    return "Bronze 1";
+    return "Tin 1";
   }
 
   for (const rankInfo of ranks) {
