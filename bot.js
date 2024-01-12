@@ -121,7 +121,7 @@ function calculateRank(messagesCount, userID) {
   const maxRankForSpecialUser = "Silver 5";
 
   const ranks = [
-    { rank: "Grandmaster 5", threshold: 1000 },
+    { rank: "Grandmaster 5", threshold: 10000 },
     { rank: "Grandmaster 4", threshold: 9500 },
     { rank: "Grandmaster 3", threshold: 9000 },
     { rank: "Grandmaster 2", threshold: 8500 },
