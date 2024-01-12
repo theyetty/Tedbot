@@ -26,6 +26,7 @@ async function generateRankImage(rank, tier, username) {
     // Add rank text
     drawCenteredText(rank, 'bold 30px Arial', 'black', 150); // Adjust y position as needed
 
+    if (!tier) { tier = '0' };
     // Add tier text
     drawCenteredText(`Tier ${tier}`, 'bold 30px Arial', 'black', 200); // Adjust y position as needed
   
