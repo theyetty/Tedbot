@@ -11,15 +11,23 @@ async function generateRankImage(rank, tier, username) {
     // Draw the base image
     context.drawImage(baseImage, 0, 0);
   
+    // Function to draw centered text
+    function drawCenteredText(text, font, fillStyle, y) {
+        context.font = font;
+        context.fillStyle = fillStyle;
+        const textWidth = context.measureText(text).width;
+        const x = (canvas.width - textWidth) / 2;
+        context.fillText(text, x, y);
+    }
+
     // Add username text
-    context.font = 'bold 30px Arial'; // Adjust font size as needed
-    context.fillStyle = 'black'; // You can change the color if needed
-    context.fillText(username, 150, 50); // Adjust position as needed
-  
+    drawCenteredText(username, 'bold 50px Arial', 'black', 100);
+
+    // Add rank text
+    drawCenteredText(rank, 'bold 30px Arial', 'black', 150); // Adjust y position as needed
+
     // Add tier text
-    context.font = 'bold 40px Arial';
-    context.fillStyle = 'black'; // Example text color
-    context.fillText(`Tier ${tier}`, 150, 100); // Adjust position as needed
+    drawCenteredText(`Tier ${tier}`, 'bold 30px Arial', 'black', 200); // Adjust y position as needed
   
     return canvas.toBuffer();
   }
