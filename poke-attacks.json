@@ -1,0 +1,516 @@
+{
+  "attacks": [
+    {
+      "message": "throws a banana at",
+      "value": 5
+    },
+    {
+      "message": "tickles and then slaps",
+      "value": 2
+    },
+    {
+      "message": "flicks",
+      "value": 3
+    },
+    {
+      "message": "smacks",
+      "value": 8
+    },
+    {
+      "message": "throws a pie at",
+      "value": 10
+    },
+    {
+      "message": "gently pokes",
+      "value": 1
+    },
+    {
+      "message": "splashes water on",
+      "value": 5
+    },
+    {
+      "message": "blows a kiss at",
+      "value": 2
+    },
+    {
+      "message": "sneezes on",
+      "value": 7
+    },
+    {
+      "message": "puts a whoopee cushion under",
+      "value": 3
+    },
+    {
+      "message": "sprays silly string at",
+      "value": 5
+    },
+    {
+      "message": "blows a raspberry at",
+      "value": 2
+    },
+    {
+      "message": "taps on the shoulder of",
+      "value": 1
+    },
+    {
+      "message": "pours glitter on",
+      "value": 6
+    },
+    {
+      "message": "gives a wedgie to",
+      "value": 10
+    },
+    {
+      "message": "sings a bad karaoke song to",
+      "value": 4
+    },
+    {
+      "message": "tells a bad joke to",
+      "value": 2
+    },
+    {
+      "message": "blows a kazoo at",
+      "value": 3
+    },
+    {
+      "message": "dances in front of",
+      "value": 5
+    },
+    {
+      "message": "pulls a prank on",
+      "value": 8
+    },
+    {
+      "message": "tickles with a feather",
+      "value": 3
+    },
+    {
+      "message": "shows a bad magic trick to",
+      "value": 5
+    },
+    {
+      "message": "pretends to faint in front of",
+      "value": 2
+    },
+    {
+      "message": "pulls a silly face at",
+      "value": 1
+    },
+    {
+      "message": "blows a party horn at",
+      "value": 4
+    },
+    {
+      "message": "throws confetti at",
+      "value": 6
+    },
+    {
+      "message": "gives a wet willy to",
+      "value": 7
+    },
+    {
+      "message": "plays a prank call on",
+      "value": 4
+    },
+    {
+      "message": "surprises",
+      "value": 5
+    },
+    {
+      "message": "gives a noogie to",
+      "value": 7
+    },
+    {
+      "message": "tells a bad pun to",
+      "value": 2
+    },
+    {
+      "message": "distracts with a funny meme",
+      "value": 3
+    },
+    {
+      "message": "chases",
+      "value": 8
+    },
+    {
+      "message": "stomps on",
+      "value": 35
+    },
+    {
+      "message": "bashes",
+      "value": 40
+    },
+    {
+      "message": "slams",
+      "value": 45
+    },
+    {
+      "message": "crushes",
+      "value": 50
+    },
+    {
+      "message": "obliterates",
+      "value": 60
+    },
+    {
+      "message": "annihilates",
+      "value": 70
+    },
+    {
+      "message": "decimates",
+      "value": 80
+    },
+    {
+      "message": "demolishes",
+      "value": 90
+    },
+    {
+      "message": "wrecks",
+      "value": 100
+    },
+    {
+      "message": "obliterates with a laser beam",
+      "value": 110
+    },
+    {
+      "message": "obliterates with a meteor strike",
+      "value": 120
+    },
+    {
+      "message": "obliterates with a nuclear bomb",
+      "value": 130
+    },
+    {
+      "message": "obliterates with a black hole",
+      "value": 140
+    },
+    {
+      "message": "obliterates with a supernova",
+      "value": 150
+    },
+    {
+      "message": "obliterates with a gamma ray burst",
+      "value": 160
+    },
+    {
+      "message": "obliterates with a planetary collision",
+      "value": 170
+    },
+    {
+      "message": "obliterates with a cosmic ray burst",
+      "value": 180
+    },
+    {
+      "message": "obliterates with a solar flare",
+      "value": 190
+    },
+    {
+      "message": "obliterates with a quantum singularity",
+      "value": 200
+    },
+    {
+      "message": "blows a whoopee cushion in front of",
+      "value": 3
+    },
+    {
+      "message": "surprises with a confetti cannon",
+      "value": 7
+    },
+    {
+      "message": "puts a bucket of water above",
+      "value": 5
+    },
+    {
+      "message": "scares with a fake spider",
+      "value": 4
+    },
+    {
+      "message": "annoyingly hums a catchy tune to",
+      "value": 2
+    },
+    {
+      "message": "blows a party whistle at",
+      "value": 4
+    },
+    {
+      "message": "tickles with a feather duster",
+      "value": 3
+    },
+    {
+      "message": "confuses with a magic trick gone wrong",
+      "value": 6
+    },
+    {
+      "message": "throws a water balloon at",
+      "value": 5
+    },
+    {
+      "message": "blows a vuvuzela at",
+      "value": 3
+    },
+    {
+      "message": "spills a cup of coffee on",
+      "value": 7
+    },
+    {
+      "message": "plays a prank call pretending to be a celebrity to",
+      "value": 5
+    },
+    {
+      "message": "sprays a can of silly string on",
+      "value": 5
+    },
+    {
+      "message": "disturbs with an air horn",
+      "value": 8
+    },
+    {
+      "message": "distracts with a cute puppy video",
+      "value": 2
+    },
+    {
+      "message": "scares with a rubber snake",
+      "value": 4
+    },
+    {
+      "message": "confuses with a fake parking ticket",
+      "value": 6
+    },
+    {
+      "message": "pops a balloon next to",
+      "value": 4
+    },
+    {
+      "message": "surprises with a jack-in-the-box",
+      "value": 6
+    },
+    {
+      "message": "blows a kazoo loudly at",
+      "value": 3
+    },
+    {
+      "message": "disturbs with a voodoo doll",
+      "value": 5
+    },
+    {
+      "message": "pretends to be a mime and annoys",
+      "value": 2
+    },
+    {
+      "message": "distracts with a whoopie cushion sound",
+      "value": 2
+    },
+    {
+      "message": "pops a confetti popper on",
+      "value": 5
+    },
+    {
+      "message": "confuses with a fake spider web",
+      "value": 6
+    },
+    {
+      "message": "tosses a foam brick at",
+      "value": 4
+    },
+    {
+      "message": "distracts with a dancing gorilla suit",
+      "value": 3
+    },
+    {
+      "message": "tickles with a giant feather",
+      "value": 5
+    },
+    {
+      "message": "confuses with a fake mustache",
+      "value": 4
+    },
+    {
+      "message": "distracts with a singing telegram",
+      "value": 6
+    },
+    {
+      "message": "scares with a life-sized cardboard cutout",
+      "value": 7
+    },
+    {
+      "message": "surprises with a giant balloon animal",
+      "value": 5
+    },
+    {
+      "message": "distracts with a colorful kaleidoscope",
+      "value": 2
+    },
+    {
+      "message": "confuses with a fake parking attendant",
+      "value": 6
+    },
+    {
+      "message": "annoyingly plays the accordion for",
+      "value": 3
+    },
+    {
+      "message": "distracts with a hilarious pun",
+      "value": 2
+    },
+    {
+      "message": "confuses with a fake lottery ticket",
+      "value": 7
+    },
+    {
+      "message": "distracts with a hypnotic spinning top",
+      "value": 3
+    },
+    {
+      "message": "annoyingly sings off-key in front of",
+      "value": 2
+    },
+    {
+      "message": "confuses with a fake broken window",
+      "value": 5
+    },
+    {
+      "message": "distracts with a game of charades",
+      "value": 4
+    },
+    {
+      "message": "scares with a plastic spider",
+      "value": 3
+    },
+    {
+      "message": "annoyingly hums a catchy tune to",
+      "value": 2
+    },
+    {
+      "message": "confuses with a fake love letter",
+      "value": 6
+    },
+    {
+      "message": "distracts with a hand puppet show",
+      "value": 3
+    },
+    {
+      "message": "tickles with a plush toy",
+      "value": 4
+    },
+    {
+      "message": "scares with a fake rat",
+      "value": 4
+    },
+    {
+      "message": "confuses with a fake parking violation ticket",
+      "value": 5
+    },
+    {
+      "message": "distracts with a yo-yo trick",
+      "value": 2
+    },
+    {
+      "message": "boops on the nose of",
+      "value": 1
+    },
+    {
+      "message": "scares with a fake ult callout for",
+      "value": 4
+    },
+    {
+      "message": "tosses a Junkrat's mine at",
+      "value": 5
+    },
+    {
+      "message": "distracts with a dancing Reinhardt",
+      "value": 3
+    },
+    {
+      "message": "annoys with a Mei ice wall in front of",
+      "value": 4
+    },
+    {
+      "message": "scares with a Hanzo dragonstrike voice line",
+      "value": 3
+    },
+    {
+      "message": "tickles with a Winston's Tesla Cannon",
+      "value": 5
+    },
+    {
+      "message": "confuses with a fake teleporter",
+      "value": 6
+    },
+    {
+      "message": "distracts with a funny D.Va highlight intro",
+      "value": 2
+    },
+    {
+      "message": "tosses a pulse bomb at",
+      "value": 6
+    },
+    {
+      "message": "annoys with a Widowmaker's grapple in front of",
+      "value": 4
+    },
+    {
+      "message": "scares with a Reaper's shadow step sound",
+      "value": 3
+    },
+    {
+      "message": "tickles with a Tracer's pulse pistols",
+      "value": 5
+    },
+    {
+      "message": "confuses with a fake friendly Torbjorn turret",
+      "value": 6
+    },
+    {
+      "message": "distracts with a Genji's dragonblade sound",
+      "value": 2
+    },
+    {
+      "message": "blinds with a Phoenix's curveball",
+      "value": 3
+    },
+    {
+      "message": "scares with a fake enemy footsteps sound",
+      "value": 4
+    },
+    {
+      "message": "tosses a Sage's slow orb at",
+      "value": 5
+    },
+    {
+      "message": "distracts with a Raze's fireworks",
+      "value": 3
+    },
+    {
+      "message": "annoys with a Viper's poison cloud in front of",
+      "value": 4
+    },
+    {
+      "message": "scares with a Jett's blade storm sound",
+      "value": 3
+    },
+    {
+      "message": "tickles with a Sova's shock dart",
+      "value": 5
+    },
+    {
+      "message": "confuses with a fake enemy ultimate sound",
+      "value": 6
+    },
+    {
+      "message": "distracts with a Brimstone's sky smoke",
+      "value": 2
+    },
+    {
+      "message": "tosses a Cypher's tripwire at",
+      "value": 6
+    },
+    {
+      "message": "annoys with a Killjoy's turret in front of",
+      "value": 4
+    },
+    {
+      "message": "scares with a Omen's dark cover sound",
+      "value": 3
+    }
+  ]
+}
