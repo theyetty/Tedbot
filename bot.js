@@ -158,13 +158,17 @@ function calculateRank(messagesCount, userID) {
     { rank: "Bronze 1", threshold: 50 }
   ];
 
+  // Special case for Ted
   if (userID === ted) {
     for (const rankInfo of ranks) {
-      if (messagesCount >= rankInfo.threshold && rankInfo.rank === maxRankForSpecialUser) {
+      if (messagesCount >= rankInfo.threshold) {
+        if (rankInfo.rank === maxRankForSpecialUser || ranks.indexOf(rankInfo) < ranks.findIndex(rank => rank.rank === maxRankForSpecialUser)) {
+          return maxRankForSpecialUser;
+        }
         return rankInfo.rank;
       }
     }
-    return "Tin 1";
+    return "Tin 1"; 
   }
 
   for (const rankInfo of ranks) {
@@ -172,6 +176,7 @@ function calculateRank(messagesCount, userID) {
       return rankInfo.rank;
     }
   }
+
 
   return "Unranked";
 }
